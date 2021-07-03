@@ -12,6 +12,12 @@ Tkl is a very lite weight machine learning libary it runs off the `CPU`.
 *Currently has no support for `GPU`
 ```
 
+# Installation
+```
+[tkl-lite]: N/A
+[tkl-full]: N/A
+```
+
 # Try your first Tkl program
 ```python
 from tkl import *
@@ -60,11 +66,7 @@ output3 = NN.add_output(neuron3,[0.3,2,-2,1],1)
 [1.19]:[Added Train,Rhinoceros tkl.NN.add_input()/tkl.koala.add_input() array can be used]
 ```
 
-# Installation
-```
-[tkl-lite]: N/A
-[tkl-full]: N/A
-```
+
 
 # Credits
 
