@@ -49,15 +49,21 @@ output3 = NN.add_output(neuron3,[0.3,2,-2,1],1)
 
 # Release Note
 ```
-  [1.11]:[base/root of tkl, added NN]
-  [1.12]:[tkl.koala was added]
-  [1.13]:[tkl.activations were added]
-  [1.14]:[tkl.koala removed for maintenance]
-  [1.15]:[tkl.koala was updated]
-  [1.16]:[tkl.islands was added]
-  [1.17]:[tkl.islands,tkl.koala were improved]
-  [1.18]:[BUG fixes,fixed tkl.NN, koala improved,added tkboard]
-  [1.19]:[Added Train,Rhinoceros tkl.NN.add_input()/tkl.koala.add_input() array can be used]
+[1.11]:[base/root of tkl, added NN]
+[1.12]:[tkl.koala was added]
+[1.13]:[tkl.activations were added]
+[1.14]:[tkl.koala removed for maintenance]
+[1.15]:[tkl.koala was updated and added back]
+[1.16]:[tkl.islands was added]
+[1.17]:[tkl.islands,tkl.koala were improved]
+[1.18]:[BUG fixes,fixed tkl.NN, koala improved,added tkboard]
+[1.19]:[Added Train,Rhinoceros tkl.NN.add_input()/tkl.koala.add_input() array can be used]
+```
+
+# Installation
+```
+[tkl-lite]: N/A
+[tkl-full]: N/A
 ```
 
 # Credits
