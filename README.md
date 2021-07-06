@@ -50,7 +50,7 @@ output3 = NN.add_output(neuron3,[0.3,2,-2,1],1)
 | `tkl.koala()`  |1.1.3|   `create deep networks `|
 | `tkl.islands()` |1.1.2|   `dataset for tkl`|
 | `tkl.tkboard()`  |1.1.1|   `create simple graphs based on neural network`|
-| `tkl.train()`  |0.1.0|   `trains a model`|
+| `tkl.train()`  |0.1.0|   `trains a Neural network/Deep network`|
 | `tkl.rhinoceros()`  |0.0.1|   `create neural networks & deep networks`|
 
 # Release Note
