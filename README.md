@@ -2,28 +2,24 @@
 
 
 # What is Tkl
-Tkl is a machine learning platform coded in python, it uses an easy-to-use framework. It's also very lite weight, which means it can run on low-end pc, tablets, phones, etc...
-
-
+Tkl is a machine learning (ML) platform developed in python. It is an easy-to-use lite weight ML framework. It can run on low-end pc, tablets, androide devices etc.
 
 # Why Tkl?
 ```
 Tkl is a very lite weight machine learning libary it runs off the `CPU`. 
-*Currently has no support for `GPU`
+*The current version (v 1.19 alplha) does not support the `GPU`
 ```
 
 # Installation
 ```
-[tkl-lite]: https://drive.google.com/file/d/1EPojFMeBpxBwtM6hRvZxzTlImn7tkYaB/view?usp=sharing (Great option for phones, tablets, etc)
-[tkl-full]: https://drive.google.com/drive/folders/1NcWBs7T9J1kGEyddR7MuRZFWtQaFDdfl?usp=sharing(Great option for PC's)
+[tkl-lite]: https://drive.google.com/file/d/1EPojFMeBpxBwtM6hRvZxzTlImn7tkYaB/view?usp=sharing (Great option for androide devices.)
+[tkl-full]: https://drive.google.com/drive/folders/1NcWBs7T9J1kGEyddR7MuRZFWtQaFDdfl?usp=sharing (Great option for PC's)
 ```
 
-
-# Try your first Tkl program
+# Try your first Tkl program (example code)
 ```python
 from tkl import *
 import random
-
 
 #// setting up the inputs
 input1 = NN.add_input(random.uniform(0, 1))
@@ -67,28 +63,25 @@ output3 = NN.add_output(neuron3,[0.3,2,-2,1],1)
 [1.19]:[Added Train,Rhinoceros tkl.NN.add_input()/tkl.koala.add_input() array can be used]
 ```
 
-
 # How to install on PC
 ```
-1). install `[tkl-full].zip` from `https://drive.google.com/drive/folders/1NcWBs7T9J1kGEyddR7MuRZFWtQaFDdfl?usp=sharing`
-2). unzip the file you installed (tkl-full.zip)
+1) download `[tkl-full].zip` from `https://drive.google.com/drive/folders/1NcWBs7T9J1kGEyddR7MuRZFWtQaFDdfl?usp=sharing`
+2) unzip the file you installed (tkl-full.zip)
+3) Move unzipped folder to the right path:
 
 #ANACONDA
-If you are using conda, Place the unziped file in the directory: `C:\ProgramData\Anaconda3\Lib`
+If you are using conda, place the unzipped files folder in the directory: `C:\ProgramData\Anaconda3\Lib`
 
 #IDLE
-If you are using IDLE, Place the unziped file in the directory: `C:\Users\{SYSYTEM USRNAME}\AppData\Local\Programs\Python\Python39\Lib`
+If you are using IDLE, place the unzipped files folder in the directory: `C:\Users\{SYSYTEM USRNAME}\AppData\Local\Programs\Python\Python39\Lib`
 
 ```
 
-# How to install on android/ios
+# How to install on android and ios
 ```
-1). install `[tkl-lite].py` from `https://drive.google.com/file/d/1EPojFMeBpxBwtM6hRvZxzTlImn7tkYaB/view?usp=sharing`
-2). open your IDE of choice, check if tkl is working using `import tkl`
+1) download `[tkl-lite].py` from `https://drive.google.com/file/d/1EPojFMeBpxBwtM6hRvZxzTlImn7tkYaB/view?usp=sharing`
+2) open the IDE of your choice, check if tkl is working using `import tkl`
 ```
 
 # Credits
-
-**Fahim Ferdous (Creator of Tkl)**
-
-
+**Fahim Ferdous (Developer of Tkl)**
