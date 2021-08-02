@@ -19,21 +19,6 @@ Tkl is a very lite weight machine learning libary it runs off the `CPU`.
 ```
 
 
-```
-**How to install on PC** : 
-1). install `[tkl-full]` from `https://`
-2). unzip the file you installed (tkl-full.zip)
-
-#ANACONDA
-If you are using conda, Place the unziped file in the directory: `C:\ProgramData\Anaconda3\Lib`
-
-#IDLE
-If you are using IDLE, Place the unziped file in the directory: `C:\Users\{SYSYTEM USRNAME}\AppData\Local\Programs\Python\Python39\Lib`
-
-```
-
-
-
 # Try your first Tkl program
 ```python
 from tkl import *
@@ -83,6 +68,24 @@ output3 = NN.add_output(neuron3,[0.3,2,-2,1],1)
 ```
 
 
+# How to install on PC
+```
+1). install `[tkl-full].zip` from `https://`
+2). unzip the file you installed (tkl-full.zip)
+
+#ANACONDA
+If you are using conda, Place the unziped file in the directory: `C:\ProgramData\Anaconda3\Lib`
+
+#IDLE
+If you are using IDLE, Place the unziped file in the directory: `C:\Users\{SYSYTEM USRNAME}\AppData\Local\Programs\Python\Python39\Lib`
+
+```
+
+# How to install on android/ios
+```
+1). install `[tkl-lite].py` from `https://drive.google.com/file/d/1EPojFMeBpxBwtM6hRvZxzTlImn7tkYaB/view?usp=sharing`
+2). open your IDE of choice, check if tkl is working using `import tkl`
+```
 
 # Credits
 
