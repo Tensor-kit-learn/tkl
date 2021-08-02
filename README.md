@@ -15,7 +15,7 @@ Tkl is a very lite weight machine learning libary it runs off the `CPU`.
 # Installation
 ```
 [tkl-lite]: https://drive.google.com/file/d/1EPojFMeBpxBwtM6hRvZxzTlImn7tkYaB/view?usp=sharing (Great option for phones, tablets, etc)
-[tkl-full]: N/A(Great option for PC's)
+[tkl-full]: https://drive.google.com/drive/folders/1NcWBs7T9J1kGEyddR7MuRZFWtQaFDdfl?usp=sharing(Great option for PC's)
 ```
 
 
@@ -70,7 +70,7 @@ output3 = NN.add_output(neuron3,[0.3,2,-2,1],1)
 
 # How to install on PC
 ```
-1). install `[tkl-full].zip` from `https://`
+1). install `[tkl-full].zip` from `https://drive.google.com/drive/folders/1NcWBs7T9J1kGEyddR7MuRZFWtQaFDdfl?usp=sharing`
 2). unzip the file you installed (tkl-full.zip)
 
 #ANACONDA
