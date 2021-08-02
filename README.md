@@ -18,6 +18,22 @@ Tkl is a very lite weight machine learning libary it runs off the `CPU`.
 [tkl-full]: N/A(Great option for PC's)
 ```
 
+
+```
+**How to install on PC** : 
+1). install `[tkl-full]` from `https://`
+2). unzip the file you installed (tkl-full.zip)
+
+#ANACONDA
+If you are using conda, Place the unziped file in the directory: `C:\ProgramData\Anaconda3\Lib`
+
+#IDLE
+If you are using IDLE, Place the unziped file in the directory: `C:\Users\{SYSYTEM USRNAME}\AppData\Local\Programs\Python\Python39\Lib`
+
+```
+
+
+
 # Try your first Tkl program
 ```python
 from tkl import *
