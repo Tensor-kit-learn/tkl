@@ -16,7 +16,7 @@ Tkl is a very lite weight machine learning libary it runs off the `CPU`.
 [tkl-full]: https://drive.google.com/drive/folders/1NcWBs7T9J1kGEyddR7MuRZFWtQaFDdfl?usp=sharing (Great option for PC's)
 ```
 
-# Run `TKL` in your browser!
+# Run Tkl in your browser!
 https://trinket.io/library/trinkets/4ed462b480
 
 # Try your first Tkl program (example code)
