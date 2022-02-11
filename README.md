@@ -12,7 +12,7 @@ Tkl is a very lite weight machine learning libary it runs off the `CPU`.
 
 # Installation
 ```
-[tkl-lite]: https://drive.google.com/file/d/1EPojFMeBpxBwtM6hRvZxzTlImn7tkYaB/view?usp=sharing (Great option for androide devices.)
+[tkl-lite]: https://drive.google.com/file/d/1EPojFMeBpxBwtM6hRvZxzTlImn7tkYaB/view?usp=sharing (Great option for android devices.)
 [tkl-full]: https://drive.google.com/drive/folders/1NcWBs7T9J1kGEyddR7MuRZFWtQaFDdfl?usp=sharing (Great option for PC's)
 ```
 
